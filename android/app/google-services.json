@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "823934870121",
+    "firebase_url": "https://routesapplicationnew-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "routesapplicationnew",
+    "storage_bucket": "routesapplicationnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823934870121:android:11fbd51de8efd003e438f8",
+        "android_client_info": {
+          "package_name": "com.backgroundlocationtest.backgroundlocationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823934870121-6dtp32f488jk6gh8k8s7k6qu6ngamcu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZMYQ6fRfYibnsI3fF0jNAQA9Tx_mnELc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823934870121-6dtp32f488jk6gh8k8s7k6qu6ngamcu3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "823934870121-kb0dh29av2phs4c9dgt021tqqh6bbk0n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.routescoapp.routescoapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823934870121:android:be401d2ce287663be438f8",
+        "android_client_info": {
+          "package_name": "com.routescoapp.routescoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823934870121-6dtp32f488jk6gh8k8s7k6qu6ngamcu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZMYQ6fRfYibnsI3fF0jNAQA9Tx_mnELc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823934870121-6dtp32f488jk6gh8k8s7k6qu6ngamcu3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "823934870121-kb0dh29av2phs4c9dgt021tqqh6bbk0n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.routescoapp.routescoapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823934870121:android:358413633a218640e438f8",
+        "android_client_info": {
+          "package_name": "com.routescoappdriver.routescoappdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823934870121-6dtp32f488jk6gh8k8s7k6qu6ngamcu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZMYQ6fRfYibnsI3fF0jNAQA9Tx_mnELc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823934870121-6dtp32f488jk6gh8k8s7k6qu6ngamcu3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "823934870121-kb0dh29av2phs4c9dgt021tqqh6bbk0n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.routescoapp.routescoapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
